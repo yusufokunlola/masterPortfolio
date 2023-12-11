@@ -1,39 +1,31 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "R_kgDOH1AN0A",
+      "name": "environment-temp-change",
+      "createdAt": "2022-08-16T10:56:59Z",
+      "url": "https://github.com/yusufokunlola/environment-temp-change",
+      "description": "The project seeks to perform forecasting of Nigeria's temperature change using machine learning.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "R_kgDOH3FThg",
+      "name": "moped-prediction",
+      "createdAt": "2022-08-22T10:45:17Z",
+      "url": "https://github.com/yusufokunlola/moped-prediction",
+      "description": "Moped Bike Prediction",
       "isFork": false,
       "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
         {
           "name": "Python",
           "iconifyClass": "logos-python"
@@ -41,39 +33,17 @@
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
+      "id": "R_kgDOJYuytw",
+      "name": "TeamFlask_notebook",
+      "createdAt": "2023-04-19T09:22:46Z",
+      "url": "https://github.com/yusufokunlola/TeamFlask_notebook",
+      "description": "Team Flask Capstone Project - Hamoye Winter '23 Cohort ",
+      "isFork": true,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
@@ -81,34 +51,44 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
+      "id": "R_kgDOKLi7Iw",
+      "name": "recipe-site",
+      "createdAt": "2023-08-25T20:33:31Z",
+      "url": "https://github.com/yusufokunlola/recipe-site",
+      "description": "Recipe Site Traffic Prediction",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "id": "R_kgDOI2jpSg",
+      "name": "HDSC-Winter23",
+      "createdAt": "2023-01-27T14:51:07Z",
+      "url": "https://github.com/yusufokunlola/HDSC-Winter23",
+      "description": null,
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOIKjjfg",
+      "name": "weather-prediction",
+      "createdAt": "2022-10-08T15:55:05Z",
+      "url": "https://github.com/yusufokunlola/weather-prediction",
+      "description": "Compared the performance of five different AI models for the prediction of weather condition",
+      "isFork": false,
+      "languages": [
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     }

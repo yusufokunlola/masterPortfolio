@@ -5,8 +5,8 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const openSource = {
-  githubConvertedToken: process.env.GITHUB_TOKEN,
-  githubUserName: process.env.GITHUB_USERNAME,
+  githubConvertedToken: "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", 
+  githubUserName: "yusufokunlola", 
 };
 
 const query_pr = {
